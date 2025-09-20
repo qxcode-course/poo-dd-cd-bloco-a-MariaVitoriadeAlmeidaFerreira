@@ -1,0 +1,9 @@
+2025-09-20 17:52:20, MOVE, v:1, k:git_pratica, mode:DOWN
+2025-09-20 17:52:23, MOVE, v:1, k:git_pratica, mode:PICK
+2025-09-20 17:52:33, MOVE, v:1, k:git_pratica, mode:BACK
+2025-09-20 17:53:17, MOVE, v:1, k:toalha, mode:PICK
+2025-09-20 17:53:23, EXEC, v:1, k:toalha, mode:FREE
+2025-09-20 17:53:43, MOVE, v:1, k:toalha, mode:BACK
+2025-09-20 17:54:13, MOVE, v:1, k:git_pratica, mode:PICK
+2025-09-20 17:54:17, EXEC, v:1, k:git_pratica, mode:FREE, size:0
+2025-09-20 17:54:31, MOVE, v:1, k:git_pratica, mode:BACK
