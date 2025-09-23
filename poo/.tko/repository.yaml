@@ -11,6 +11,8 @@ expanded:
 - configuracao-e-aquecimento
 - bloco_a-treino-de-algoritmos
 - bloco_a-práticas-com-o-git
+- bloco_b-modificadores-de-acesso
+- bloco_b-agregação-simples
 tasks:
   toalha: '{rate:20}'
 flags:
@@ -19,4 +21,4 @@ flags:
   tasks: 0
   graph: 0
   xray: 0
-index: git_pratica
+index: enxugar
