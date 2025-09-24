@@ -29,7 +29,7 @@ def main():
   toalha = Towel("", "") #3. objeto manipulado
   while True: #4 loop infinito
       line: str = input()
-      #print("$" + line) 
+      print("$" + line) 
       args: list[str] = line.split(" ")
       if args[0] == "end":
         break
@@ -37,7 +37,6 @@ def main():
           color = args[1]
           size = args[2]
           toalha = Towel(color, size)
-
       elif args[0] == "mostrar":
           print(toalha)
       elif args[0] == "dry":
@@ -47,6 +46,3 @@ def main():
           print("fail")
   
 main()
-
-
-
