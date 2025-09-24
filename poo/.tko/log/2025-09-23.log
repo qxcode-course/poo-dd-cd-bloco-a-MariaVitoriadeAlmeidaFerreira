@@ -62,3 +62,7 @@
 2025-09-23 19:50:13, MOVE, v:1, k:enxugar, mode:PICK
 2025-09-23 19:50:14, EXEC, v:1, k:enxugar, mode:FULL, rate:0
 2025-09-23 19:50:17, EXEC, v:1, k:enxugar, mode:FREE
+2025-09-23 17:20:16, MOVE, v:1, k:enxugar, mode:PICK
+2025-09-23 17:20:17, EXEC, v:1, k:enxugar, mode:FULL, rate:0
+2025-09-23 17:21:07, MOVE, v:1, k:enxugar, mode:PICK
+2025-09-23 17:21:42, EXEC, v:1, k:enxugar, mode:FULL, rate:0, size:52
